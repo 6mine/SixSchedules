@@ -1,0 +1,11 @@
+name: SixSchedules
+version: '1.0.0'
+main: me.seetch.sixSchedules.SixSchedules
+api-version: '1.20'
+author: seetch
+website: https://github.com/6mine/SixSchedules
+
+commands:
+  sixschedules:
+    usage: /sixschedules reload
+    permission: sixschedules.*
